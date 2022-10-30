@@ -1,0 +1,23 @@
+/*.game {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+} */
+#pole_14x14 {
+    width: 500px;
+    height: 500px;
+    background-image: url(img/14x14_\(на\ 4ых\).png);
+    background-size: 500px 500px;
+    position: relative;
+    top: 50px;
+    margin: auto;
+}
+#Ser_Peshk_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: relative;
+    /* top: 1px; 
+     margin: auto; */
+}
