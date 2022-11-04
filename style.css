@@ -17,9 +17,143 @@
     height: 30px;
     background-image: url(img/Серая\ пешка.png);
     background-size: 30px 30px;
-    position: relative;
-    left: 186px;
-    nav-up: 100px;
-    /* top: 10px; 
-     margin: auto; */
+    position: absolute;
+    left: 202px;
+    top: 489px;
 }
+#Ser_Peshk_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 236px;
+    top: 489px;
+}
+#Ser_Peshk_3 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 272px;
+    top: 489px;
+}
+#Ser_Peshk_4 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 307px;
+    top: 489px;
+}
+#Ser_Peshk_5 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 342px;
+    top: 489px;
+}
+#Ser_Peshk_6 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 377px;
+    top: 489px;
+}
+#Ser_Peshk_7 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 412px;
+    top: 489px;
+}
+#Ser_Peshk_8 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ пешка.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 447px;
+    top: 489px;
+}
+#Ser_Ferz {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серый\ Ферзь.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 342px;
+    top: 523px;
+}
+#Ser_Lad_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ Ладья.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 447px;
+    top: 523px;
+}
+#Ser_Lad_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серая\ Ладья.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 202px;
+    top: 523px;
+}
+#Ser_Kon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серый\ Конь.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 412px;
+    top: 523px;
+}
+#Ser_Kon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серый\ Конь.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 236px;
+    top: 523px;
+}
+#Ser_Slon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серый\ Слон.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 377px;
+    top: 523px;
+}
+#Ser_Slon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серый\ Слон.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 272px;
+    top: 523px;
+}
+#Ser_Korol {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Серый\ Король.png);
+    background-size: 30px 30px;
+    position: absolute;
+    left: 307px;
+    top: 523px;
+}
+
