@@ -18,6 +18,8 @@
     background-image: url(img/Серая\ пешка.png);
     background-size: 30px 30px;
     position: relative;
-    /* top: 1px; 
+    left: 186px;
+    nav-up: 100px;
+    /* top: 10px; 
      margin: auto; */
 }
