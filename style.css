@@ -1,9 +1,4 @@
-/*.game {
-    width: 600px;
-    height: 600px;
-    margin: auto;
-} */
-#pole_14x14 {
+.game {
     width: 500px;
     height: 500px;
     background-image: url(img/14x14_\(на\ 4ых\).png);
@@ -12,148 +7,632 @@
     top: 50px;
     margin: auto;
 }
+/* #pole_14x14 {} */
+/* Серые ребята */
 #Ser_Peshk_1 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 202px;
-    top: 489px;
+    left: 112px;
+    top: 430px;
 }
 #Ser_Peshk_2 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 236px;
-    top: 489px;
+    left: 147px;
+    top: 430px;
 }
 #Ser_Peshk_3 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 272px;
-    top: 489px;
+    left: 183px;
+    top: 430px;
 }
 #Ser_Peshk_4 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 307px;
-    top: 489px;
+    left: 217px;
+    top: 430px;
 }
 #Ser_Peshk_5 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 342px;
-    top: 489px;
+    left: 253px;
+    top: 430px;
 }
 #Ser_Peshk_6 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 377px;
-    top: 489px;
+    left: 288px;
+    top: 430px;
 }
 #Ser_Peshk_7 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 412px;
-    top: 489px;
+    left: 323px;
+    top: 430px;
 }
 #Ser_Peshk_8 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ пешка.png);
+    background-image: url(img/Серый\ набор/Пешка.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 447px;
-    top: 489px;
+    left: 358px;
+    top: 430px;
 }
 #Ser_Ferz {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серый\ Ферзь.png);
+    background-image: url(img/Серый\ набор/Ферзь.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 342px;
-    top: 523px;
+    left: 253px;
+    top: 465px;
 }
 #Ser_Lad_1 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ Ладья.png);
+    background-image: url(img/Серый\ набор/Ладья.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 447px;
-    top: 523px;
+    left: 112px;
+    top: 465px;
 }
 #Ser_Lad_2 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серая\ Ладья.png);
+    background-image: url(img/Серый\ набор/Ладья.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 202px;
-    top: 523px;
+    left: 358px;
+    top: 465px;
 }
 #Ser_Kon_1 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серый\ Конь.png);
+    background-image: url(img/Серый\ набор/Конь.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 412px;
-    top: 523px;
+    left: 147px;
+    top: 465px;
 }
 #Ser_Kon_2 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серый\ Конь.png);
+    background-image: url(img/Серый\ набор/Конь.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 236px;
-    top: 523px;
+    left: 323px;
+    top: 465px;
 }
 #Ser_Slon_1 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серый\ Слон.png);
+    background-image: url(img/Серый\ набор/Слон.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 377px;
-    top: 523px;
+    left: 183px;
+    top: 465px;
 }
 #Ser_Slon_2 {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серый\ Слон.png);
+    background-image: url(img/Серый\ набор/Слон.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 272px;
-    top: 523px;
+    left: 288px;
+    top: 465px;
 }
 #Ser_Korol {
     width: 30px;
     height: 30px;
-    background-image: url(img/Серый\ Король.png);
+    background-image: url(img/Серый\ набор/Король.png);
     background-size: 30px 30px;
     position: absolute;
-    left: 307px;
-    top: 523px;
+    left: 217px;
+    top: 465px;
 }
-
+/* Красные ребята */
+#Krasn_Peshk_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 360px;
+}
+#Krasn_Peshk_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 324px;
+}
+#Krasn_Peshk_3 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 288px;
+}
+#Krasn_Peshk_4 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 253px;
+}
+#Krasn_Peshk_5 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 218px;
+}
+#Krasn_Peshk_6 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 183px;
+}
+#Krasn_Peshk_7 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 148px;
+}
+#Krasn_Peshk_8 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 42px;
+    top: 113px;
+}
+#Krasn_Ferz {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Ферзь.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 253px;
+}
+#Krasn_Lad_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Ладья.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 113px;
+}
+#Krasn_Lad_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Ладья.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 360px;
+}
+#Krasn_Kon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Конь.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 148px;
+}
+#Krasn_Kon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Конь.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 324px;
+}
+#Krasn_Slon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Слон.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 183px;
+}
+#Krasn_Slon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Слон.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 288px;
+}
+#Krasn_Korol {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Красный\ набор/Король.png);
+    background-size: 30px 30px;
+    transform: rotate(90deg);
+    position: absolute;
+    left: 8px;
+    top: 218px;
+}
+/* Зеленые ребята */
+#Zelen_Peshk_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 112px;
+    top: 42px;
+}
+#Zelen_Peshk_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 147px;
+    top: 42px;
+}
+#Zelen_Peshk_3 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 183px;
+    top: 42px;
+}
+#Zelen_Peshk_4 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 217px;
+    top: 42px;
+}
+#Zelen_Peshk_5 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 253px;
+    top: 42px;
+}
+#Zelen_Peshk_6 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 288px;
+    top: 42px;
+}
+#Zelen_Peshk_7 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 323px;
+    top: 42px;
+}
+#Zelen_Peshk_8 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 358px;
+    top: 42px;
+}
+#Zelen_Ferz {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Ферзь.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 217px;
+    top: 8px;
+}
+#Zelen_Lad_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Ладья.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 112px;
+    top: 8px;
+}
+#Zelen_Lad_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Ладья.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 358px;
+    top: 8px;
+}
+#Zelen_Kon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Конь.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 147px;
+    top: 8px;
+}
+#Zelen_Kon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Конь.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 323px;
+    top: 8px;
+}
+#Zelen_Slon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Слон.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 183px;
+    top: 8px;
+}
+#Zelen_Slon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Слон.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 288px;
+    top: 8px;
+}
+#Zelen_Korol {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Зеленый\ набор/Король.png);
+    background-size: 30px 30px;
+    transform: rotate(180deg);
+    position: absolute;
+    left: 253px;
+    top: 8px;
+}
+/* Синие ребята */
+#Sin_Peshk_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 113px;
+}
+#Sin_Peshk_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 148px;
+}
+#Sin_Peshk_3 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 183px;
+}
+#Sin_Peshk_4 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 218px;
+}
+#Sin_Peshk_5 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 253px;
+}
+#Sin_Peshk_6 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 288px;
+}
+#Sin_Peshk_7 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 324px;
+}
+#Sin_Peshk_8 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Пешка.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 427px;
+    top: 360px;
+}
+#Sin_Ferz {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Ферзь.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 218px;
+}
+#Sin_Lad_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Ладья.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 113px;
+}
+#Sin_Lad_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Ладья.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 360px;
+}
+#Sin_Kon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Конь.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 148px;
+}
+#Sin_Kon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Конь.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 324px;
+}
+#Sin_Slon_1 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Слон.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 183px;
+}
+#Sin_Slon_2 {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Слон.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 288px;
+}
+#Sin_Korol {
+    width: 30px;
+    height: 30px;
+    background-image: url(img/Синий\ набор/Король.png);
+    background-size: 30px 30px;
+    transform: rotate(270deg);
+    position: absolute;
+    left: 462px;
+    top: 253px;
+}
